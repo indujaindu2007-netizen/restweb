@@ -43,3 +43,11 @@ a
     height: 250px;
     object-fit: cover;
 }
+footer
+{
+    background-color:blue;
+    text-align: center;
+    color: white;
+    height: 25px;
+    font-size: larger;
+}

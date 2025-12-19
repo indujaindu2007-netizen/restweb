@@ -53,6 +53,9 @@ home.html
             Every meal served with warmth and love.
         </h3>
     </body>
+    <footer>
+        <p>&copy;Induja R(25001726)</p>
+    </footer>
 </html>
 
 home.css
@@ -101,6 +104,14 @@ h3
     border-radius: 5px;
     width: 500px;
     margin-bottom: 100px;
+}
+footer
+{
+    background-color:blue;
+    text-align: center;
+    color: white;
+    height: 25px;
+    font-size: larger;
 }
 
 menu.html
@@ -159,11 +170,11 @@ menu.html
                 <h3>Rasamalai</h3>
                 <h4> Price=Rs 110</h4>
             </div>
-            
-
         </div>  
     </body>
-    
+    <footer>
+        <p>&copy;Induja R(25001726)</p>
+    </footer>
 </html>
 
 menu.css
@@ -213,6 +224,14 @@ h2 {
     height: 150px;
     object-fit: cover;
 }
+footer
+{
+    background-color:blue;
+    text-align: center;
+    color: white;
+    height: 25px;
+    font-size: larger;
+}
 
 contact.html
 
@@ -249,6 +268,9 @@ contact.html
         <h2>Follow Us :</h2>
         <p>Instagram|Facebook|Whatsapp</p>
     </body>
+    <footer>
+        <p>&copy;Induja R(25001726)</p>
+    </footer>
 </html>
 
 contact.css
@@ -350,6 +372,9 @@ admin.html
         
         </div>
     </body>
+    <footer>
+        <p>&copy;Induja R(25001726)</p>
+    </footer>
 </html>
 
 admin.css
@@ -399,6 +424,14 @@ a
     height: 250px;
     object-fit: cover;
 }
+footer
+{
+    background-color:blue;
+    text-align: center;
+    color: white;
+    height: 25px;
+    font-size: larger;
+}
 
 ```
 
@@ -407,7 +440,7 @@ a
 ![alt text](home.png)
 ![alt text](menu.png)
 ![alt text](contact.png)
-![alt text](admin.png)
+![alt text](<admin (1).png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.

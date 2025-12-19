@@ -44,4 +44,11 @@ h2 {
     height: 150px;
     object-fit: cover;
 }
-
+footer
+{
+    background-color:blue;
+    text-align: center;
+    color: white;
+    height: 25px;
+    font-size: larger;
+}
