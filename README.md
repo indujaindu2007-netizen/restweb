@@ -405,7 +405,7 @@ a
 
 ## OUTPUT:
 ![alt text](home.png)
-![alt text](admin.png)
+![alt text](menu.png)
 ![alt text](contact.png)
 ![alt text](admin.png)
 
