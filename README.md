@@ -384,6 +384,7 @@ body
     background-image: url('adminbg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    backdrop-filter: blur(3px)
 }
 h1
 {
