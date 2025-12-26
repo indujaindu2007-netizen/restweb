@@ -439,7 +439,7 @@ footer
 
 ## OUTPUT:
 ![alt text](rest1.png)
-![alt text](rest3.png)
+![alt text](menu.png)
 ![alt text](contact.png)
 ![alt text](<rest 2.png>)
 
