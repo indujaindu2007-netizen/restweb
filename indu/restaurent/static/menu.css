@@ -27,8 +27,7 @@ h2 {
 .menubox {
     display: flex;
     gap: 35px;
-    width: 150%;
-    margin: 100px;
+    margin: 50px;
 }
 
 .food {
@@ -46,9 +45,10 @@ h2 {
 }
 footer
 {
-    background-color:blue;
-    text-align: center;
+    background-color: blue;   /* or any color you like */
     color: white;
-    height: 25px;
+    text-align: center;
+    padding: 15px 0;          /* gives enough height for text */
     font-size: larger;
+    width: 100%;
 }
